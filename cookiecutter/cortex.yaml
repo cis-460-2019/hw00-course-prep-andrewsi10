@@ -1,0 +1,12 @@
+openapi: 3.0.1
+info:
+  title: Cookiecutter python stuff
+  description: ""
+  x-cortex-tag: cookiecutter-460-test
+  x-cortex-git:
+    github:
+      repository: cortexapps/hw00-course-prep-andrewsi10
+      basepath: cookiecutter
+  x-cortex-custom-metadata:
+    cortex-template-version: 0.1.0
+    cortex-generated-timestamp: 2022-02-09T10:55:54.856217
